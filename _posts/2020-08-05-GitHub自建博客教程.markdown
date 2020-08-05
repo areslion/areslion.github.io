@@ -1,32 +1,10 @@
 ---
 layout: post
-title:  "GitHub+jekyll自建博客详细教程"
-date:   2020-08-05 09:33:00 +0800
+title:  "第一篇幅博客"
+date:   2020-08-04 21:58:00 +0800
 categories: jekyll update
 ---
-GitHub+jekyll搭建自己博客，看着比较简单，但是要正真的做好，还是存在不少的坑点，结合结合其他的资料和自己的摸索，记录如下：
-
-
-### 更换persephone主题
-
-
-1. Add this line to your Jekyll site's Gemfile:
-
-
-`gem "jekyll-theme-persephone`
-
-2. And add this line to your Jekyll site's _config.yml:
-
-`theme: jekyll-theme-persephone`
-
-1. And then execute:
-
-`$ bundle`
-
-
-
-
----
+花了好久的时间搭建这个简单的博客，很多次的操作都不成功，反复检查数据也没有发现问题，可能是缓冲的影响的原因.这个地方的博客是不受尘世喧嚣的影响，不受熟悉人的揣测的注视和关注。
 
 Jekyll requires blog post files to be named according to the following format:
 
