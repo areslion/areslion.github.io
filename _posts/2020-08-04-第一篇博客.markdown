@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "第一片博客"
+title:  "第一篇幅博客"
 date:   2020-08-04 21:58:00 +0800
 categories: jekyll update
 ---
